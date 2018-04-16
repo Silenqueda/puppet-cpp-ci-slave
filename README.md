@@ -1,0 +1,1 @@
+# puppet-cpp-ci-slave
